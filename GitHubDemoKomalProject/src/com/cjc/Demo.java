@@ -9,3 +9,8 @@ public void m2()
 {
 	System.out.println("hello1")
 }
+	public void m3()
+{
+	System.out.println("hello3")
+}
+
